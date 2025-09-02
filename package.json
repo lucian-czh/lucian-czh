@@ -1,0 +1,22 @@
+{
+  "name": "lucian-blog",
+  "version": "1.0.0",
+  "description": "I'm Lucian's blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucian-czh/lucian-czh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucian-czh/lucian-czh/issues"
+  },
+  "homepage": "https://github.com/lucian-czh/lucian-czh#readme",
+  "devDependencies": {
+    "mustache": "^4.2.0"
+  }
+}
