@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
 
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
@@ -131,4 +132,4 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
+
