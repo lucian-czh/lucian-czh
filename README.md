@@ -116,7 +116,7 @@ Here are some ideas to get you started:
   <img alt="WeChat" src="https://img.shields.io/badge/-WeChat-44ad2f?style=flat&logo=WeChat&logoColor=white" />
 </div>
 
-### 💰 Blockchain & Crypto
+##### 💰 Blockchain & Crypto
 <div align="center">
   <img alt="BNB" src="https://img.shields.io/badge/-BNB-debd3b?style=flat&logo=bnbchain&logoColor=white" />
   <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-9f712e?style=flat-square&logo=Bitcoin" />
