@@ -123,6 +123,7 @@
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucian-czh&layout=compact" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lucian-czh&show_icons=true" />
+  <img height="170px" src="https://github.com/lucian-czh/lucian-czh/blob/main/metrics.svg" />
 </div>
 
 <!-- 奖杯 -->
@@ -131,6 +132,3 @@
 </div>
 
 <br>
-
-![Metrics](https://github.com/lucian-czh/lucian-czh/blob/main/metrics.svg)
-
