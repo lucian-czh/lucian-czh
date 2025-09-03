@@ -1,21 +1,6 @@
 
 ## Hi there 👋 ![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
 
-
-**lucian-czh/lucian-czh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning three.js ...
-- 👯 I’m looking to collaborate on three.js ...
-<!-- # - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
@@ -25,12 +10,13 @@ Here are some ideas to get you started:
 </p> 
 
 ## About Me
-
-- :credit_card: I am a **frontend developer** 
-- :books: My major is **Vue and React**
-- :earth_asia: I'm living now in **China**
-- :bicyclist: I love Outdoor Ride, Badminton and Billiards.
-- :mailbox_closed: If you want to contact me, the following is my contact information.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning three.js ...
+- 👯 I’m looking to collaborate on three.js ...
+- 💬 I'm a **frontend developer** 
+- 😄 I'm living now in **China**
+- ⚡  I love Basketball, Table tennis and Billiards.
+- 📫 My major is **Vue and React**
 - 📧 Gmail: **lucianczh@gmail.com**
 - 🔗 Twitter:  <a href="https://twitter.com/lucianczh" target="view_window">@lucianczh</a>
 - 🌏 Wechat:  **19817177767**
