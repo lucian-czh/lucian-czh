@@ -1,4 +1,4 @@
-![Metrics](https://github.com/lucian-czh/lucian-czh/blob/main/github-metrics.svg)
+![Metrics](https://github.com/lucian-czh/lucian-czh/blob/main/metrics.svg)
 ## Hi there 👋 ![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
 
 
