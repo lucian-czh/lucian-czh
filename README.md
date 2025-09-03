@@ -1,3 +1,4 @@
+![Metrics](https://github.com/username/username/blob/main/github-metrics.svg)
 ## Hi there 👋 ![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
 
 
@@ -145,5 +146,4 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
 
