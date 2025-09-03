@@ -3,7 +3,7 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-     Hello! <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Lucian-czh 👋 
+     Hello! <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Lucian-czh 
   </h1> 
   <p align="center">I’m an energetic✨ and sporty🚀 person.</p> 
 </p> 
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on three.js ...
 - 💬 I'm a **frontend developer** 
 - 😄 I'm living now in **China**
-- ⚡  I love Basketball, Table tennis and Billiards.
+- 👋 I love Basketball, Table tennis and Billiards.
 - 📫 My major is **Vue and React**
 - 📧 Gmail: **lucianczh@gmail.com**
 - 🔗 Twitter:  <a href="https://twitter.com/lucianczh" target="view_window">@lucianczh</a>
