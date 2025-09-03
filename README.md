@@ -6,10 +6,9 @@
   </h1> 
   <p align="center">I’m an energetic✨ and sporty🚀 person.</p> 
 </p> 
-![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
 
 ## About Me
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on RPA by using nodejs ...
 - 🌱 I’m currently learning three.js ...
 - 👯 I’m looking to collaborate on three.js ...
 - 💬 I'm a **frontend developer** 
@@ -131,3 +130,5 @@
 </div>
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
