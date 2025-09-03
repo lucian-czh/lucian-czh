@@ -2,10 +2,11 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-     Hello! <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Lucian-czh 👋 ![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
+     Hello! <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Lucian-czh 👋 
   </h1> 
   <p align="center">I’m an energetic✨ and sporty🚀 person.</p> 
 </p> 
+![](https://komarev.com/ghpvc/?username=lucian-czh&color=red)
 
 ## About Me
 - 🔭 I’m currently working on ...
