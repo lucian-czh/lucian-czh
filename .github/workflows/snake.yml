@@ -14,7 +14,9 @@ on:
       - main
 
 permissions:
-  contents: write   # ✅ 关键，允许 GITHUB_TOKEN 有写权限
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   generate:

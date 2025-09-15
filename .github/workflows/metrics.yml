@@ -11,12 +11,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.lucian }}
 
           # Options
           filename: metrics.svg
